@@ -1,0 +1,11 @@
+.container { 
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  height: 20vh;
+}
+
+li{
+  margin-left: 20px;
+  font-size: 24px;
+}
